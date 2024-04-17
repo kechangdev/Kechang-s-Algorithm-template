@@ -1,13 +1,13 @@
 # Kechang's Algorithm template
 
-## 1. [Basic Algorithm](https://github.com/kechangdev/Kechang-s-Algorithm-template/tree/main/Basic%20Algorithm)
+## 1. Basic Algorithm
 - [Quick Sort](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Basic%20Algorithm/1.01-Quick%20Sort.md#quick-sort)
 - [Merge Sort](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Basic%20Algorithm/1.02-Merge%20Sort.md)
 - [Binary Search](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Basic%20Algorithm/1.03-Binary%20Search.md)
 - [PrefixSum](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Basic%20Algorithm/1.04-PrefixSum.md)
 - [Difference](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Basic%20Algorithm/1.05-Difference.md)
 
-## 2. [Data Structure](https://github.com/kechangdev/Kechang-s-Algorithm-template/tree/main/Data%20Structure)
+## 2. Data Structure
 - [Stack](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Data%20Structure/2.01-Stack.md)
 - [Queue](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Data%20Structure/2.02-Queue.md)
 - [Adj List](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Data%20Structure/2.03-Adj%20List.md)
