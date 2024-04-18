@@ -17,3 +17,4 @@
 - [UnionFind](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Data%20Structure/2.07-UnionFind.md)
 - [Binary Indexed Tree](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Data%20Structure/2.08-Binary%20Indexed%20Tree.md)
 - [Segment Tree](https://github.com/kechangdev/Kechang-s-Algorithm-template/blob/main/Data%20Structure/2.09-Segment%20Tree.md)
+[](https://raw.githubusercontent.com/kechangdev/kechang-s-picture-repository/main/images/CryingDocker.png)
